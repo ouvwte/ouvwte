@@ -2,7 +2,7 @@
 
 🚀 **ML/DS Engineer | Python | MLOps**
 
-## Обо мне
+## About Me
 
 Master's student at Lobachevsky University (Huawei Research Center program), Bachelor's graduate with honors. Software engineer with 3 years of enterprise experience. I specialize in building robust ML pipelines, feature engineering, and MLOps practices.
 
@@ -37,6 +37,25 @@ Master's student at Lobachevsky University (Huawei Research Center program), Bac
 
 | Project | Description | Technologies |
 |--------|----------|------------|
-| [MLOps Depth-Anything-V2](https://github.com/ouvwte/mlops-depth-estimation) | Reproducible inference of a SOTA model | Docker, Python, OpenCV |
-| [VLM LaTeX OCR](https://github.com/ouvwte/vlm-latex-ocr) | Fine-tuning VLMs for formula recognition | PyTorch, LoRA, Streamlit |
-| [Diabetes Prediction](https://github.com/ouvwte/diabetes-prediction) | Full-cycle ML solution | scikit-learn, Pandas, Streamlit |
+| [MLOps Depth-Anything-V2](https://github.com/ouvwte/Depth-Anything-V2) | Reproducible inference of a SOTA model | Docker, Python, OpenCV |
+| [VLM LaTeX OCR](https://github.com/ouvwte/LaTex-OCR-Huawei) | Fine-tuning VLMs for formula recognition | PyTorch, LoRA, Streamlit |
+| [Diabetes Prediction](https://github.com/ouvwte/Diabetes) | Full-cycle ML solution | scikit-learn, Pandas, Streamlit |
+
+## 🎓 Education
+
+**Master's Program** | UNN IITMM (Artificial Intelligence)  
+*2025–2027 | Joint program with Huawei Research Center*
+
+**Bachelor's degree with honors** | Minin University  
+*2021–2025 | Information Systems and Technologies. GPA: 4.91*
+
+## 📚 Certificates
+
+- Data Analytics and Machine Learning — Innopolis University (2023)
+- Oracle Database: Develop PL/SQL Program Units – Oracle (2022)
+- Python Programming — Intel Corporation (2020)
+
+## 📫 Connect with Me
+
+- 📧 Email: danilabrunov@gmail.com
+- 📱 Telegram: [@danilb575](https://t.me/your_telegram)
